@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="uv (dev_pulse)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (dev_pulse)" project-jdk-type="Python SDK" />
 </project>
